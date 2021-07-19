@@ -8,12 +8,12 @@
 
 ##### Proyectos:
  ###### Enjoy – OMDB (2021)
- - Aplicacion web con React conectada a la database de OMDB mediante pedidos AJAX, permitiendo buscar y agregar  peliculas favoritas a cada usuario, persistiendo informacion en backend con arquitectura Restfull API.
- > https://github.com/demianbara/Enjoy-OMDB
+ > Aplicacion web con React conectada a la database de OMDB mediante pedidos AJAX, permitiendo buscar y agregar  peliculas favoritas a cada usuario, persistiendo informacion en backend con arquitectura Restfull API.
+ - https://github.com/demianbara/Enjoy-OMDB
 
 ###### E-commerce (2021) 
-- Plataforma Web desarrollada grupalmente desde cero, para la compra/venta de insumos de vivero.
-> https://github.com/demianbara/Flora-Ecommerce
+> Plataforma Web desarrollada grupalmente desde cero, para la compra/venta de insumos de vivero.
+- https://github.com/demianbara/Flora-Ecommerce
 
 
 
