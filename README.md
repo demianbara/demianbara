@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer
 -------------------
 
-+2 years experience as a Full Stack Software Engineer. Delivering high-quality software solutions, ensuring optimal performance and specializing in creating unique visual experiences. With a passion for clean and efficient code and a keen eye for design. Open and lean mindset, backed on my experience working in different teams and projects.
++3 years experience as a Full Stack Software Engineer. Delivering high-quality software solutions, ensuring optimal performance and specializing in creating unique visual experiences. With a passion for clean and efficient code and a keen eye for design. Open and lean mindset, backed on my experience working in different teams and projects.
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [demianbara@gmail.com](mailto:demianbara@gmail.com)
